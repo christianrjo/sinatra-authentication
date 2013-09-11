@@ -1,0 +1,9 @@
+LOG:  database system was shut down at 2013-09-06 20:26:44 PDT
+LOG:  autovacuum launcher started
+LOG:  database system is ready to accept connections
+WARNING:  corrupted statistics file "pg_stat_tmp/pgstat.stat"
+WARNING:  corrupted statistics file "pg_stat_tmp/pgstat.stat"
+LOG:  autovacuum launcher shutting down
+LOG:  received smart shutdown request
+LOG:  shutting down
+LOG:  database system is shut down
